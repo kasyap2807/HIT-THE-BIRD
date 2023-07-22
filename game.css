@@ -1,0 +1,21 @@
+body{
+    background-image: url(bg3.png);
+    cursor: url('images.png'),auto;
+    height: 500;
+    width: 725;
+}
+h1{
+  user-select: none;
+  text-align: center;
+}
+#timer{
+  text-align: end;
+  font: 24px Arial;
+  position: relative;
+  top: 60px;
+}
+#div1{
+    position: relative;
+    top: 10px;
+    /* background-image: url(bg3.png); */
+}

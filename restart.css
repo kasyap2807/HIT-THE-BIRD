@@ -1,0 +1,39 @@
+body{
+    background-image: url(bg3.png);
+}
+h1{
+    text-align: center; 
+    position: relative; 
+    top: 250px;
+}
+h2{
+    text-align: center; 
+    position: relative; 
+    top:270px;
+}
+#name2{
+    text-align: center; 
+    position: relative; 
+    top:290px;
+}
+#name3{
+    text-align: center; 
+    position: relative; 
+    top:310px;
+}
+
+#form1{
+    text-align: center; 
+    position: relative; 
+    top: 330px;
+}
+#submit,#button{
+    padding: 10px;
+    margin: 2px;
+    border:2px solid black;
+    border-radius: 25%;
+    background-color: black;
+    color: white;
+    width: 100px;
+   text-align: center;
+}
